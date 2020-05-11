@@ -1,1 +1,54 @@
 {"level":"info","ts":1589035754.223711,"caller":"zap-tcpwriter/main.go:31","msg":"Test"}
+{"level":"info","ts":1589168402.521667,"caller":"zap_tcp_logger/main.go:101","msg":"Waiting to receive signals"}
+{"level":"info","ts":1589168402.521746,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168404.5268018,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168406.530636,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168408.5327868,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168409.066101,"caller":"zap_tcp_logger/main.go:84","msg":"Receive signal: ","signal":"interrupt"}
+{"level":"info","ts":1589168409.0663948,"caller":"zap_tcp_logger/main.go:104","msg":"Done"}
+{"level":"info","ts":1589168568.190281,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168568.190251,"caller":"zap_tcp_logger/main.go:101","msg":"Waiting to receive signals"}
+{"level":"info","ts":1589168570.198129,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168572.200928,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168574.204185,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168576.2099981,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168578.212992,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168580.216892,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168582.221267,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168584.230839,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168586.2366579,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168588.237798,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168590.242163,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168592.243812,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168594.247777,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168596.251284,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168598.254078,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168600.258125,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168602.261269,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168604.267021,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168606.272629,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168608.277832,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168610.281186,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168612.2868428,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168614.291661,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168616.295166,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168618.299277,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168620.304277,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168622.3091462,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168624.314784,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168626.3203578,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168628.3242738,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168630.3260548,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168632.328705,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168634.333853,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168636.338022,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168638.342883,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168640.349109,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168642.354362,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168644.35762,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168646.360758,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168648.365067,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168650.374689,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168652.379335,"caller":"zap_tcp_logger/main.go:95","msg":"I am a test message"}
+{"level":"info","ts":1589168653.258952,"caller":"zap_tcp_logger/main.go:84","msg":"Receive signal: ","signal":"interrupt"}
+{"level":"info","ts":1589168653.259609,"caller":"zap_tcp_logger/main.go:104","msg":"Done"}
